@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\bin\Debug\net6.0\Teste_Analista_Dev_Jr_Bissexto.exe
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\bin\Debug\net6.0\Teste_Analista_Dev_Jr_Bissexto.deps.json
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\bin\Debug\net6.0\Teste_Analista_Dev_Jr_Bissexto.runtimeconfig.json
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\bin\Debug\net6.0\Teste_Analista_Dev_Jr_Bissexto.dll
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\bin\Debug\net6.0\Teste_Analista_Dev_Jr_Bissexto.pdb
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\obj\Debug\net6.0\Teste_Analista_Dev_Jr_Bissexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\obj\Debug\net6.0\Teste_Analista_Dev_Jr_Bissexto.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\obj\Debug\net6.0\Teste_Analista_Dev_Jr_Bissexto.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\obj\Debug\net6.0\Teste_Analista_Dev_Jr_Bissexto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\obj\Debug\net6.0\Teste_Analista_Dev_Jr_Bissexto.dll
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\obj\Debug\net6.0\refint\Teste_Analista_Dev_Jr_Bissexto.dll
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\obj\Debug\net6.0\Teste_Analista_Dev_Jr_Bissexto.pdb
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\obj\Debug\net6.0\Teste_Analista_Dev_Jr_Bissexto.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Teste_Analista_Dev_Jr_Bissexto\Teste_Analista_Dev_Jr_Bissexto\obj\Debug\net6.0\ref\Teste_Analista_Dev_Jr_Bissexto.dll
